@@ -1,0 +1,9 @@
+C:\Users\Alec\Documents\Visual Studio 2013\Projects\Color Organizer\Color Organizer\bin\Debug\Color Organizer.exe.config
+C:\Users\Alec\Documents\Visual Studio 2013\Projects\Color Organizer\Color Organizer\bin\Debug\Color Organizer.exe
+C:\Users\Alec\Documents\Visual Studio 2013\Projects\Color Organizer\Color Organizer\bin\Debug\Color Organizer.pdb
+C:\Users\Alec\Documents\Visual Studio 2013\Projects\Color Organizer\Color Organizer\obj\Debug\Color Organizer.csprojResolveAssemblyReference.cache
+C:\Users\Alec\Documents\Visual Studio 2013\Projects\Color Organizer\Color Organizer\obj\Debug\Color_Organizer.Form1.resources
+C:\Users\Alec\Documents\Visual Studio 2013\Projects\Color Organizer\Color Organizer\obj\Debug\Color_Organizer.Properties.Resources.resources
+C:\Users\Alec\Documents\Visual Studio 2013\Projects\Color Organizer\Color Organizer\obj\Debug\Color Organizer.csproj.GenerateResource.Cache
+C:\Users\Alec\Documents\Visual Studio 2013\Projects\Color Organizer\Color Organizer\obj\Debug\Color Organizer.exe
+C:\Users\Alec\Documents\Visual Studio 2013\Projects\Color Organizer\Color Organizer\obj\Debug\Color Organizer.pdb
